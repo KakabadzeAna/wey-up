@@ -1,0 +1,47 @@
+h1 {
+    color: red;
+}
+
+.new {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+.block {
+    width: 100px;
+    height: 100px;
+}
+
+span {
+    color: red;
+}
+
+.main {
+    color: white;
+    background-color: green;
+}
+
+.me {
+    color: white;
+    background-color: green;
+    width: auto;
+    height: 50px;
+    padding: 50px;
+}
+
+.you {
+    margin: 30px;
+}
+li {
+    border: 2px solid black;
+    font-size: 30px;
+}
+
+.back {
+    color: white;
+    background-color: green;
+}
+body {
+    background-color: honeydew;
+}
